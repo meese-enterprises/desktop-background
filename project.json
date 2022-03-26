@@ -1,0 +1,59 @@
+{
+    "contentrating" : "Everyone",
+    "description": "The default background for all Meese Enterprises computers.",
+    "file": "index.html",
+    "general": {
+        "properties": {
+            "companyName": {
+                "text": "Company name",
+                "type": "textinput",
+                "value": "MEESE"
+            },
+            "companyNameSize": {
+                "text": "Company name size",
+                "type": "textinput",
+                "value": "90"
+            },
+            "companyType": {
+                "text": "Company type",
+                "type": "textinput",
+                "value": "ENTERPRISES"
+            },
+            "companyTypeSize": {
+                "text": "Company type size",
+                "type": "textinput",
+                "value": "30"
+            },
+            "primaryColor": {
+                "text": "Primary color",
+                "type": "color",
+                "value": "0.83921568627 0 1"
+            },
+            "secondaryColor": {
+                "text": "Secondary color",
+                "type": "color",
+                "value": "0 0.72156862745 1"
+            },
+            "colorOpacity": {
+                "text": "Color opacity",
+                "type": "textinput",
+                "value": "0.6"
+            },
+            "backgroundColor": {
+                "text": "Background color",
+                "type": "color",
+                "value": "0 0 0"
+            },
+            "schemecolor": {
+                "text": "Scheme color",
+                "type": "color",
+                "value": "0 0 0"
+            }
+        }
+    },
+    "preview" : "preview.jpg",
+  	"tags" : [ "Cyberpunk" ],
+  	"title" : "Meese Enterprises",
+  	"type" : "web",
+  	"visibility" : "public"
+}
