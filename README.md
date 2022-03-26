@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/language-JavaScript-yellow" alt="JavaScript" />
   </a>
   <a href="https://github.com/meese-enterprises/desktop-background/blob/master/LICENSE.md">
-    <img src="https://img.shields.io/github/license/ajmeese7/matrix-wallpaper" alt="License" />
+    <img src="https://img.shields.io/github/license/meese-enterprises/desktop-background" alt="License" />
   </a>
   <a href="https://github.com/meese-enterprises/desktop-background/stargazers">
-    <img src="https://github.com/meese-enterprises/desktop-background/matrix-wallpaper" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/meese-enterprises/desktop-background" alt="Stars" />
   </a>
   <a href="https://github.com/meese-enterprises/desktop-background/network/members">
     <img src="https://img.shields.io/github/forks/meese-enterprises/desktop-background" alt="Forks" />
@@ -20,7 +20,9 @@
   </a>
 </p>
 
-![Wallpaper Example](preview.jpg)
+<p align="center">
+	<img src="preview.jpg" alt="Company splash wallpaper" title="Company splash wallpaper" />
+</p>
 
 This simple wallpaper features the company splash screen with customizable settings.
 The project is available on Steam [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2784916467).
