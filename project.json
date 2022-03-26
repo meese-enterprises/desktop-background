@@ -1,6 +1,6 @@
 {
     "contentrating" : "Everyone",
-    "description": "The default background for all Meese Enterprises computers.",
+    "description": "The default background for all Meese Enterprises machines.",
     "file": "index.html",
     "general": {
         "properties": {
@@ -55,5 +55,7 @@
   	"tags" : [ "Cyberpunk" ],
   	"title" : "Meese Enterprises",
   	"type" : "web",
+    "workshopid" : "2784916467",
+	"workshopurl" : "steam://url/CommunityFilePage/2784916467",
   	"visibility" : "public"
 }

@@ -25,7 +25,6 @@ const getRandomInt = (min = 0, max = 1) =>
  */
 class ScrambleLetters {
 	constructor(selector = ".scramble") {
-		console.log("ScrambleLetters STARTED...");
 		this.selector = selector;
 		this.isScrambling = false;
 		this.repeat = 0;

@@ -3,8 +3,8 @@ const convertToRGB = (value) =>
 	value.split(' ').map(color => Math.ceil(color * 255));
 
 /* ################################################
-			Wallpaper Engine Interaction
-	 ################################################ */
+             Wallpaper Engine Interaction
+   ################################################ */
 window.wallpaperPropertyListener = {
 	applyUserProperties: function(properties) {
 		/** Used to update CSS variables. */
@@ -12,11 +12,11 @@ window.wallpaperPropertyListener = {
 
 		if (properties.companyName) {
 			let text = properties.companyName.value;
-			document.getElementById("companyName").innerText = text;
+			document.getElementById("companyName").innerHTML = text;
 		}
 		if (properties.companyType) {
 			let text = properties.companyType.value;
-			document.getElementById("companyType").innerText = text;
+			document.getElementById("companyType").innerHTML = text;
 		}
 
 		if (properties.companyNameSize) {
@@ -55,5 +55,7 @@ window.wallpaperPropertyListener = {
 				.map(c => Math.ceil(c * 255));
 			var schemeColorAsCSS = `rgb(${schemeColor})`;
 		}
+
+		new ScrambleLetters();
 	}
 };
