@@ -26,6 +26,7 @@
 
 This simple wallpaper features the company splash screen with customizable settings.
 The project is available on Steam [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2784916467).
+For Linux support, follow the directions in [this repository](https://github.com/catsout/wallpaper-engine-kde-plugin).
 
 ## Problems
 Currently this experiences the same problem as my previous [Matrix Wallpaper](https://github.com/ajmeese7/matrix-wallpaper)
